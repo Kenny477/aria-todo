@@ -4,7 +4,7 @@
 
 A todo app that focuses on productivity. 
 
-Currently in development, this progressive web app aims to eventually implement machine learning to optimize the Pomodoro Technique for individuals' todo lists.
+Currently in development, this progressive web app aims to provides an innovative alternative to traditional todo apps by incorporating machine learning to help users manage time and maximize productivity within a given time period.
 
 Built with SvelteKit, TailwindCSS, and Supabase.
 
